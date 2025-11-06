@@ -17,7 +17,6 @@ export default function Home() {
       desc: "The delicacy of locking eyes with the beloved and losing one’s heart to him combines in this song with a delightful disregard for social convention, represented by the gossiping neighbourhood women ...",
       linkText: "EXPLORE SONG",
       position: "ml-[300px]",
-      topWave: null,
     },
     {
       id: 2,
@@ -27,7 +26,6 @@ export default function Home() {
       desc: `"Nothing has its own intrinsic character. Everything exists in relation to something else. The name of this realization is ‘shoonya’."`,
       linkText: "EXPLORE REFLECTION",
       position: "ml-auto mr-[250px]",
-      topWave: "/t.svg",
     },
     {
       id: 3,
@@ -37,7 +35,6 @@ export default function Home() {
       desc: "While there are many kinds of oral traditions – those which transmit mythology, sacred texts and folklore – our focus here are the oral traditions of Kabir or other mystic poets – the Bhaktas, Sufis and Bauls.",
       linkText: "EXPLORE REFLECTION",
       position: "ml-[300px]",
-      topWave: "/t.svg",
     },
     {
       id: 4,
@@ -47,7 +44,6 @@ export default function Home() {
       desc: "Kabir was a 15th century mystic poet of north India who defied the boundaries between Hindu and Muslim. He had a Muslim name and upbringing, but his poetry repeatedly invokes the widely revered Hindu name for God – Ram.",
       linkText: "EXPLORE FILM",
       position: "ml-auto mr-[250px]",
-      topWave: "/t.svg",
     },
   ];
 
